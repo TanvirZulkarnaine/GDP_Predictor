@@ -1,0 +1,5 @@
+Models,training_r2_score,testing_r2_score
+Liner Regression,5.46%,5.14%
+Random Forest Regressor,95.12%,84.22%
+Gradient Boosting Regressor,99.61%,86.12%
+Elastic Net Regressor,8.97%,7.89%
