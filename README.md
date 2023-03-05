@@ -50,10 +50,10 @@ After several training and testing sessions, we have come to the conclusion that
 4. Map illustrations showing countries based on gdp per capita and inflation.
 
 ## Results:
-Based on data set (1961-2021) we will be presenting the following outcomes:
+Based on data set (1971-2021), which resulted in approximately 11,000 data points. These are the of the Machine Learning summary accuracy (R2_score) on the testing and training dataset of the four models: 
 Random Forest Model.
 
-![image](https://user-images.githubusercontent.com/111619125/217625873-25535846-ebae-485b-81be-8d94e7c46069.png)
+![image](/Visualizations/ML_Summary.png)
 
 
 ## Summary:
