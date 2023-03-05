@@ -33,7 +33,15 @@ We tested the following models on our dataset:
 Will be running 2 machines learning models, predicting GDP over using socio-economic indicators(2019-2023);
 
 ## Machine Learning:
-We performed a variety of models including Unsupervised Machine Learning, but found the best accuracy with regression in the form of the Random Forest model.
+We are using machine learning in attempt to predict the GDP values of any countries in the world. Our dependent variables which are required to predict GDP are few economic factors such as unemployment, inflation, urbanization, literacy rate of young and adults, health expectancy, and energy uses. And our target is the GDP variable.
+We have used supervised regression models. The four regression models we used are:
+- Multi Linear Regression
+- Elastic Net Regression
+- Random Forest Regressor
+- Gradient Boosting Regressor
+
+After several training and testing sessions, we have come to the conclusion that Random Forest Regression model yields us the best accuracy and also does not overfit the data. 
+
 
 ## Visualizations:
 1. How GDP affected CPI.
